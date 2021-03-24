@@ -1,4 +1,4 @@
 # IHM
 
 
-TPs effectués en IHM avec comme langage de programmation OCaml.
+TPs effectués en IHM avec comme langage de programmation Java.
